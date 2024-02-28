@@ -12,6 +12,7 @@ Run the python script RSdist2.py to find the distance of the object from the cam
 References: 
 
 https://pysource.com/object-detection-opencv-deep-learning-video-course/
+
 https://github.com/garceling/Traffic-Monitoring-on-RPI
 
 
