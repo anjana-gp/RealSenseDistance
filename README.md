@@ -6,7 +6,7 @@ For Object detection Yolov2-tiny is used.
 Dowload the Yolov2-tiny .cfg and .weights file using the link: 
 https://pjreddie.com/darknet/yolov2/
 
-Run the python script RSdist.py to recognise the object and the distance of the object from the camera.
+Run the python script Realsense1.py to recognise the object and the distance of the object from the camera.
 Run the python script RSdist2.py to find the distance of the object from the camera based on pointer placement
 
 
